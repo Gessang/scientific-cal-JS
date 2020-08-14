@@ -44,7 +44,7 @@ button{
     font-size: 29px;
     background:#878a88;
     font-weight: bold;
-    margin-bottom: 0px;
+    margin-bottom: 20px;
     font-family: cursive;
     color: #8a0707;
     border-radius: 2px;
@@ -58,6 +58,7 @@ button:hover{
     body{
         width: 100%;
         height: 100%;
+        Margin-top:10px
     }
 
 
