@@ -56,7 +56,7 @@ button:hover{
 
 @media screen and (min-device-width: 400px) and (max-width: 900px){
 body{
-    padding: 2.5rem;
+    padding: 3rem;
 }
 button{
     padding: 2px 2px;
