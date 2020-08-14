@@ -44,7 +44,7 @@ button{
     font-size: 29px;
     background:#878a88;
     font-weight: bold;
-    margin-bottom: 20px;
+    margin-bottom: 0px;
     font-family: cursive;
     color: #8a0707;
     border-radius: 2px;
@@ -56,8 +56,8 @@ button:hover{
 
 @media screen and (min-device-width: 400px) and (max-width: 900px){
     body{
-        width: 100vw;
-        height: 100vh;
+        width: 100%;
+        height: 100%;
     }
 
 
